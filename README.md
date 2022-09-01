@@ -6,7 +6,7 @@ Here are some ideas to get you started about me:
 
 - 🔭 I’m currently working on a scholarship website using MERN stack, ALX-Software Engineering Task (C and Python)
 - 🌱 I’m currently learning AWS code pipelining
-- 👯 I’m looking to collaborate on the Scholarship project
+- 👯 I’m looking to collaborate on the C - Stacks, Queues - LIFO, FIFO
 - 🤔 I’m looking for help with ... AWS pipelining 
 - 💬 Ask me about ... mern stack
 - 📫 How to reach me: wrefordmessi@gmail.com
