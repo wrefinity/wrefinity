@@ -1,8 +1,6 @@
 ## Hi world 👋
 Am Andrew Ishaku wreford, a fullstack mern developer, keen to build effective, technical and feasible solution to the tech world.  
 
-<!--
-**wrefinity/wrefinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started about me:
 
