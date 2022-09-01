@@ -4,7 +4,7 @@ Am Andrew Ishaku wreford, a fullstack mern developer, keen to build effective, t
 
 Here are some ideas to get you started about me:
 
-- 🔭 I’m currently working on a scholarship website using MERN stack
+- 🔭 I’m currently working on a scholarship website using MERN stack, ALX-Software Engineering Task (C and Python)
 - 🌱 I’m currently learning AWS code pipelining
 - 👯 I’m looking to collaborate on the Scholarship project
 - 🤔 I’m looking for help with ... AWS pipelining 
