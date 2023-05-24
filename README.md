@@ -5,7 +5,7 @@ Am Andrew Ishaku wreford, a fullstack mern developer, keen to build effective, t
 Here are some ideas to get you started about me:
 
 - 🔭 I’m currently working on a scholarship website using MERN stack, ALX-Software Engineering Task (C and Python)
-- 🌱 I’m currently learning Solidarity and Viper
+- 🌱 I’m currently learning Solidity and Viper
 - 👯 I’m looking to collaborate on the C - Stacks, Queues - LIFO, FIFO
 - 🤔 I’m looking for help with ... Blockchain 
 - 💬 Ask me about ... mern stack
